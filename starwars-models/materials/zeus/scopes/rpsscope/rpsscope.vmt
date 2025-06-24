@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\scopes\rpsscope\rpsscope_albedo"
+	$bumpmap			"zeus\scopes\rpsscope\rpsscope_bump"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$envmapmask					"zeus\scopes\rpsscope\rpsscope_envmap"
+	$envmapfresnel				1
+	$envmaplightscale			1.0
+
+
+
+	$phong 1
+	$phongexponenttexture		"zeus\scopes\rpsscope\rpsscope_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 1.0]"
+
+	$detail				"zeus\scopes\rpsscope\rpsscope_emit"	$detailscale		1
+	$detailblendmode	5
+	$normalmapalphaenvmapmask 0
+}

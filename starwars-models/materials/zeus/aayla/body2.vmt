@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/aayla/body_d2"
+	$bumpmap "zeus/aayla/body_n"
+	$phongexponenttexture "zeus/aayla/fexp"
+	
+	$phong "1"
+	$phongexponent "6"
+	$phongboost "5"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+	$phongalbedotint "1"
+}

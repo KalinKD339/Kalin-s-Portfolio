@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\bacta_medigun\medigun_batterypack_albedo"
+	$bumpmap			"zeus\bacta_medigun\medigun_batterypack_bump"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$normalmapalphaenvmapmask	1
+	$basemapalphaphongmask		1
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"zeus\bacta_medigun\medigun_batterypack_phongexp"
+	$phongboost					6.0
+	$phongfresnelranges			"[0.1 0.8 6.0]"
+}

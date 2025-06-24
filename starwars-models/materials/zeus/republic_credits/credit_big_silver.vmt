@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\republic_credits\credit_big_silver_albedo"
+	$bumpmap			"zeus\republic_credits\credit_big_bump"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.09 0.09 0.09]"
+	$envmapcontrast				1.0
+	$normalmapalphaenvmapmask	1
+	$basemapalphaphongmask		1
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"zeus\republic_credits\credit_big_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					5.0
+	$phongfresnelranges			"[0.12 5 14.0]"
+}

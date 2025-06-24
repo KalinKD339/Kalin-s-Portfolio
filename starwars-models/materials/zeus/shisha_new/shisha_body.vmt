@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\shisha_new\shisha_body_albedo"
+	$bumpmap			"zeus\shisha_new\shisha_body_bump"
+	$translucent	1
+	$alphatest		1
+//	$alpha 1
+	$alphatestreference		255
+	$allowalphatocoverage	1
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$envmapmask					"zeus\shisha_new\shisha_body_envmap"
+	$envmapfresnel				1
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"zeus\shisha_new\shisha_body_phongexp"
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 6.0]"
+	$selfillum_envmapmask_alpha 1
+}

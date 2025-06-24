@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\mandalorian_rocket\mandalorian_rocket_albedo"
+	$bumpmap			"zeus\mandalorian_rocket\mandalorian_rocket_bump"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$envmapmask					"zeus\mandalorian_rocket\mandalorian_rocket_envmap"
+	$envmapfresnel				1
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"zeus\mandalorian_rocket\mandalorian_rocket_phongexp"
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 1.0]"
+
+	$detail				"zeus\mandalorian_rocket\mandalorian_rocket_emit"	$detailscale		1
+	$detailblendmode	5
+}

@@ -1,0 +1,36 @@
+"Refract"
+{
+	$basetexture "zeus/bacta_injector/bacta_texture"
+	"$model" 1
+	"$refractamount" "5"
+//	"$refractamount" "0.0"
+	"$refracttint" "[1 1 1]"
+
+	$nocull 1
+
+	"$dudvmap" "dev/water_dudv"
+	"$normalmap" "dev/water_normal"
+
+	"$surfaceprop" "water"
+	"$bumpframe" "0"
+
+	$alphatest		1
+	$alphatestreference		255
+	$allowalphatocoverage	1
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+//
+//		"TextureScroll"
+//		{ 
+//			"texturescrollvar" "$bumptransform"
+//			"texturescrollrate" 5.5
+//			"texturescrollangle" 45.00
+//		}
+	}
+}

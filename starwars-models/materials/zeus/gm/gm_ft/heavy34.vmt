@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "zeus\gm\gm_sgt\heavy34"
+                $nocull 1
+}

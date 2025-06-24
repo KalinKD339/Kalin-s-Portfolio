@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\scopes\zilr02\zilr02_albedo"
+	$bumpmap			"zeus\scopes\zilr02\zilr02_bump"
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"zeus\scopes\zilr02\zilr02_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 1.0]"
+}

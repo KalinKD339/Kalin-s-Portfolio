@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "zeus/cindrallig/head3"
+	$phongexponent "6"
+	$phongboost "5"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+	$phongalbedotint "1"
+	$nocull 1
+}

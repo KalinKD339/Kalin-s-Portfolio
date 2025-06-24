@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "zeus/cindrallig/body1"
+	"$bumpmap" "zeus/cindrallig/body_n"
+	$phongexponent "6"
+	$phongboost "5"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+	$phongalbedotint "1"
+	$nocull 1
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/bacta_injector/bacta_texture_4"
+	$phongexponenttexture "models/tfa/sw/yoda/fexp"
+	$translucent 1
+//	$alphatest		1
+	$alpha 1
+	$alphatestreference		255
+	$allowalphatocoverage	1
+
+	$phong "1"
+	$phongexponent "3"
+	$phongalbedotint "1"
+	$phongboost "1"
+	$phongfresnelranges "[0.4 0.75 1.0]"
+	
+	$nocull "0"
+
+
+}

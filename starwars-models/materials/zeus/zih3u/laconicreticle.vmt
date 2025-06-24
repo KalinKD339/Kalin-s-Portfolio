@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/LastWordReticle"
+    "$additive" 1
+	$nocull 1
+	$model 1
+}
+

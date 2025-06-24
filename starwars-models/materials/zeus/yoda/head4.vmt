@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/yoda/body_d4"
+	$bumpmap "zeus/yoda/body_n"
+	$phongexponenttexture "zeus/yoda/fexp"
+	
+	$phong "1"
+	$phongexponent "3"
+	$phongalbedotint "1"
+	$phongboost "4"
+	$phongfresnelranges "[0.4 0.75 1.0]"
+}

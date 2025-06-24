@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/padme/body_d3"
+	$bumpmap "zeus/padme/body_n1"
+	$phongexponenttexture "zeus/padme/fexp"
+	
+	$phong "1"
+	$phongexponent "6"
+	$phongboost "1"
+	$phongfresnelranges "[0.25 0.65 1.0]"
+	$phongalbedotint "1"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "jajoff\sps\navy\regular\GUNPOUCH"
+	"$bumpmap" "jajoff\sps\navy\regular\MISC_BUMP"
+	$nocull 1
+	$phong "1"
+    		$phongexponent "4"
+			$phongboost "1"
+			$phongfresnelranges "[0.05 0.078 1.55]"
+			$phongtint "[0.2 0.2 0.2]"
+        "$lightwarptexture" 	"jajoff\sps\navy\regular/lightwrap"
+	"$phongexponenttexture" "jajoff\sps\navy\regular/exp"
+
+
+}
+
+

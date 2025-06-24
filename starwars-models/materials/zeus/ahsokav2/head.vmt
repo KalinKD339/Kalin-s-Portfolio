@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/ahsokav2/head_d1"
+	$bumpmap "zeus/ahsokav2/head_n"
+	$phongexponenttexture "zeus/ahsokav2/fexp"
+	
+	$phong "1"
+	$phongexponent "4"
+	$phongboost "0.15"
+	$phongfresnelranges "[0.35 0.65 1.0]"
+	$phongalbedotint "0"
+}

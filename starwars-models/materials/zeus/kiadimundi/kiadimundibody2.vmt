@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/kiadimundi/body_d2"
+	$bumpmap "zeus/kiadimundi/body_n"
+	$phongexponenttexture "zeus/kiadimundi/fexp"
+	
+	$phong "1"
+	$phongexponent "3"
+	$phongalbedotint "1"
+	$phongboost "4"
+	$phongfresnelranges "[0.4 0.75 1.0]"
+}

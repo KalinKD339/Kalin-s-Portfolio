@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	$basetexture "zeus/bacta_injector/bacta_glass"
+	$bumpmap "zeus/bacta_injector/bacta_glass"
+	$alphatest		1
+	$alphatestreference		255
+	$allowalphatocoverage	1
+   	 "$envmap" "env_cubemap"                  // Adds reflective cubemap
+   	 "$envmaptint" "[0.1 0.1 0.1]"            // Tint for reflections (adjust for color)
+	
+	$phong "1"
+	$phongexponent "3"
+	$phongalbedotint "1"
+	$phongboost "1"
+	$phongfresnelranges "[0.4 0.75 1.0]"
+	
+	$nocull "1"
+}

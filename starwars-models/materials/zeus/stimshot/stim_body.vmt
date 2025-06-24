@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture		"zeus\stimshot\stim_body_albedo"
+	$bumpmap			"zeus\stimshot\stim_body_bump"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$envmapmask					"zeus\stimshot\stim_body_envmap"
+	$envmapfresnel				1
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"zeus\stimshot\stim_body_phongexp"
+	$phongboost					6.0
+	$phongfresnelranges			"[0.1 0.8 6.0]"
+
+	$detail				"zeus\stimshot\stim_body_emit"	$detailscale		1
+	$detailblendmode	5
+}
