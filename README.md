@@ -224,11 +224,11 @@ Single holo lense with a colorable dot. Features dark gray design and Star Wars 
 
 ### ZI LR02/r
 
-Long range telescopic optic. Has a sideways mounted varian. Features dark gray design and Star Wars Republic stylising.
+Long range telescopic optic. Has a sideways mounted varian. Features dark gray design, Star Wars Republic stylising and a colorable scope.
 
 ### VX-89
 
-Long range telescopic optic. Features dark gray design and Star Wars Republic stylising.
+Long range telescopic optic. Features dark gray design, Star Wars Republic stylising and a colorable scope.
 
 ### ZI NV
 
