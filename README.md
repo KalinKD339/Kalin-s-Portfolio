@@ -10,7 +10,7 @@ Here you can find most of my 3D models. Some can be found on my Steam Workshop. 
 
 Recolor of Doom's unit Barrage in 41st Elite Corps colors.
 
-### 41st Ranger Camo
+### 41st Trooper Camo
 
 Camouflage of a 41st Elite Corps trooper with the choice of either Forest, Desert or Snow camo. Has a ghillie suit as a choice.
 
@@ -258,18 +258,26 @@ ARC Clone trooper in black and white. Has a skull drawing on the front of his he
 
 ARC Clone trooper SYSTEM with many attachment and different designs(Alpha1 - 3, Alpha2 - 2) of Pauldrons, Kamas, Chestplates and Helmets, all interchangable, as well as the option to switch colors between the multiple regiments of the server dynamically - players can wear any combination of attachments in the colors of 501st, 212th, 41st Elite Corps, Coruscant Guard, Combat Engineers and 21st Nova Corps.
 
-### Bacta Injector
+### [Bacta Injector](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
 Cylinder filled with bacta and a needle to inject the wounded. Uses a water refraction shader with a textures on top and under it to mimic real life looking liquid.
 
-### Bacta Medigun
+### [Bacta Medigun](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
 Medigun built from a DC15A blaster rifle, using 2 bacta injector jars as fuel to spray people with bacta. Has batteries on each side to power it.
 
-### Bacta Hydron Kit
+### [Bacta Hydron Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=3509402924)
 
 Medkit with a bacta injector jar to heal people in AOE.
 
-### Adrenaline Stim Shot
+### [Adrenaline Stim Shot](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
 Stimshot with an injector. Uses the same water refraction shader as the bacta injector, but in red.
+
+### [Heretic Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=3537867553)
+
+Animated 3D props based on the keys from the 1994 game Heretic.
+
+### [Zakuul Bow](https://steamcommunity.com/sharedfiles/filedetails/?id=3540306103)
+
+Star Wars Bow weapon with custom animations based on Omega's bow from "The Bad Batch"
