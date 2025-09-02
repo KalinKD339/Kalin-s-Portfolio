@@ -50,47 +50,47 @@ Juggernaut armor for the Galactic marines - features a white plaster painted wit
 
 Juggernaut armor for the Galactic marines - features a grey metallic base painted with the 21st Nova Corps' purple.
 
-### GM Trooper
+### [GM Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with 21st Nova Corps' purple. Features minimal attachments - like a backpack.
 
-### GM Sergeant
+### [GM Sergeant](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with 21st Nova Corps' purple. Features slightly more attachments - everything from trooper + a pauldron.
 
-### GM Lieutenant
+### [GM Lieutenant](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, as well an ARF helmet and a kama.
 
-### GM Siege Legion
+### [GM Siege Legion](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with black and 21st Nova Corps' purple. Features a unique paintjob, a Bacara helmet, unique attachments and everything Lieutenant has.
 
-### GM Flame Trooper
+### [GM Flame Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with black and 21st Nova Corps' purple. Features a unique paintjob, a Spec Ops helmet, unique attachments and everything Lieutenant has.
 
-### GM Medic Trooper
+### [GM Medic Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with red and 21st Nova Corps' purple. Features a unique paintjob, medical insignia, unique attachments and everything Sergeant has.
 
-### GM Medic Officer
+### [GM Medic Officer](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with red and 21st Nova Corps' purple. Features a unique paintjob, medical insignia, unique attachments and everything Lieutenant has.
 
-### GM ARC Trooper
+### [GM ARC Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 ARC Clone Trooper painted with black and 21st Nova Corps' purple. Features a unique paintjob, ARC attachments and everything Lieutenant has.
 
-### GM Major
+### [GM Major](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, BARC helmet and everything Lieutenant has.
 
-### GM Executive Officer
+### [GM Executive Officer](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, BARC helmet and everything Lieutenant has.
 
-### GM Bacara
+### [GM Bacara](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 Lore Character Bacara, Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, Bacara's helmet and everything Lieutenant has.
 
@@ -206,7 +206,7 @@ Blaster revolver pistol with some engravings and a silver metal design.
 
 Blaster revolver pistol with some engravings and a black metal design.
 
-### Republic Credits
+### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
 
 3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
 
