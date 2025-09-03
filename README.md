@@ -94,39 +94,39 @@ Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, 
 
 Lore Character Bacara, Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, Bacara's helmet and everything Lieutenant has.
 
-### CE Trooper
+### [CE Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, as well as attachments such as 3 kamas, pauldron, holsters, etc.
 
-### CE ARF
+### [CE ARF](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, an ARF helmet and all attachments trooper has access to.
 
-### CE Engineer
+### [CE Engineer](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, an Engineer helmet and all attachments trooper has access to.
 
-### CE Pilot
+### [CE Pilot](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, a Pilot helmet and all attachments trooper has access to.
 
-### CE EOD
+### [CE EOD](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange and EOD bright red. Features a unique paintjob, all 4 helmets from above, an airborne helmet and all attachments trooper has access to.
 
-### CE Razor
+### [CE Razor](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange and Razor gray. Features a unique paintjob, all 4 helmets from above and all attachments trooper has access to.
 
-### CE ARC
+### [CE ARC](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 ARC Clone Trooper painted in Combat Engineer's bright orange and Razor gray. Features a unique paintjob, ARC attachments, 2 trooper helmet paintjobs and all attachments trooper has access to.
 
-### CE Medic
+### [CE Medic](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange and medic red. Features a unique paintjob with medic insignia, all 4 helmets from above and all attachments trooper has access to.
 
-### CE Senior
+### [CE Senior](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob with medic insignia, all 4 helmets from above, 3 more paulron designs and all attachments trooper has access to.
 
