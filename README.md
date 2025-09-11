@@ -12,6 +12,10 @@ Everything that does not have a refference image will have one added at some poi
 
 3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
 
+### [Star Wars Grenades](https://steamcommunity.com/sharedfiles/filedetails/?id=1113487483)
+
+Set of 3 grenades modelled after Star Wars refference, functionally acting as HE, Flashbang, Smoke.
+
 ### [ZI 4-E](https://steamcommunity.com/sharedfiles/filedetails/?id=3518860264)
 
 Blaster pistol based on the Pasadena Auto Mag 180, featuring a dark metal design. Given to high ranking navy officials.
