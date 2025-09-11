@@ -32,11 +32,11 @@ Animated 3D props based on the keys from the 1994 game Heretic.
 
 Star Wars Bow weapon with custom animations based on Omega's bow from "The Bad Batch". Has a charge mechanic.
 
-[WIP Projects](https://imgur.com/gallery/wip-projects-9FUOckh)
+### [WIP Projects](https://imgur.com/gallery/wip-projects-9FUOckh)
 
-Grenade launcher + Grenade Prop
-Sword
-Halberd
+Grenade launcher + Grenade Prop,
+Sword,
+Halberd,
 Rapier
 
 ### [GM Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
