@@ -8,6 +8,14 @@ Here you can find most of my 3D models. Some can be found on my [Steam Workshop]
 
 Everything that does not have a refference image will have one added at some point.
 
+### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
+
+3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
+
+### [ZI 4-E](https://steamcommunity.com/sharedfiles/filedetails/?id=3518860264)
+
+Blaster pistol based on the Pasadena Auto Mag 180, featuring a dark metal design. Given to high ranking navy officials.
+
 ### [Bacta Injector](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
 Cylinder filled with bacta and a needle to inject the wounded. Uses a water refraction shader with a textures on top and under it to mimic real life looking liquid.
@@ -118,14 +126,6 @@ Clone Trooper painted in Combat Engineer's bright orange and medic red. Features
 ### [CE Senior](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob with medic insignia, all 4 helmets from above, 3 more paulron designs and all attachments trooper has access to.
-
-### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
-
-3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
-
-### [ZI 4-E](https://steamcommunity.com/sharedfiles/filedetails/?id=3518860264)
-
-Blaster pistol based on the Pasadena Auto Mag 180, featuring a dark metal design. Given to high ranking navy officials.
 
 ### 41st Barrage
 
