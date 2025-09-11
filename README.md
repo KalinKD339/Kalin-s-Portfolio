@@ -4,51 +4,40 @@ Stuff I have done
 
 Welcome to my Portfolio.
 
-Here you can find most of my 3D models. Some can be found on my Steam Workshop. https://steamcommunity.com/profiles/76561198306050135/myworkshopfiles/
+Here you can find most of my 3D models. Some can be found on my [Steam Workshop](https://steamcommunity.com/profiles/76561198306050135/myworkshopfiles/).
 
-### 41st Barrage
+Everything that does not have a refference image will have one added at some point.
 
-Recolor of Doom's unit Barrage in 41st Elite Corps colors.
+### [Bacta Injector](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
-### 41st Trooper Camo
+Cylinder filled with bacta and a needle to inject the wounded. Uses a water refraction shader with a textures on top and under it to mimic real life looking liquid.
 
-Camouflage of a 41st Elite Corps trooper with the choice of either Forest, Desert or Snow camo. Has a ghillie suit as a choice.
+### [Bacta Medigun](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
-### 41st Ranger Camo
+Medigun built from a DC15A blaster rifle, using 2 bacta injector jars as fuel to spray people with bacta. Has batteries on each side to power it.
 
-Camouflage of a 41st Elite Corps Scout with the choice of either Forest, Desert or Snow camo.
+### [Bacta Hydron Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=3509402924)
 
-### 212th Cale/Reed
+Medkit with a bacta injector jar to heal people in AOE.
 
-212th Attack Battalion trooper representing lore characters Cale and Reed. Features wing-shaped ornaments on the top of the helmet.
+### [Adrenaline Stim Shot](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
 
-### 212th Threepwood
+Stimshot with an injector. Uses the same water refraction shader as the bacta injector, but in red.
 
-212th Attack Battalion trooper representing lore characters Cale and Reed. Features a triangle shape on the front of the helmet.
+### [Heretic Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=3537867553)
 
-### 212th Blackout
+Animated 3D props based on the keys from the 1994 game Heretic.
 
-A TC13 recreation of Star Wars Battlefront 2's ARC Trooper "Umbra Operative".
+### [Zakuul Bow](https://steamcommunity.com/sharedfiles/filedetails/?id=3540306103)
 
-### 212th Desert Medic
+Star Wars Bow weapon with custom animations based on Omega's bow from "The Bad Batch". Has a charge mechanic.
 
-Desert Camouflage of a 212th Medic. Features red outlines and medic insignia on his shoulders.
+[WIP Projects](https://imgur.com/gallery/wip-projects-9FUOckh)
 
-### CG Pointer
-
-Gray/red paintjob of a Coruscant Guard Dog Handler.
-
-### TC Heavy Armor 1 and 2
-
-Variants of 501st Legion troopers with heavy armor. Features 2 paintjobs for the armor, and 10 for different lore characters, as well as an ARF helmet.
-
-### GM Juggernaut
-
-Juggernaut armor for the Galactic marines - features a white plaster painted with the 21st Nova Corps' purple.
-
-### GM Juggernaut(Original)
-
-Juggernaut armor for the Galactic marines - features a grey metallic base painted with the 21st Nova Corps' purple.
+Grenade launcher + Grenade Prop
+Sword
+Halberd
+Rapier
 
 ### [GM Trooper](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
@@ -130,6 +119,58 @@ Clone Trooper painted in Combat Engineer's bright orange and medic red. Features
 
 Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob with medic insignia, all 4 helmets from above, 3 more paulron designs and all attachments trooper has access to.
 
+### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
+
+3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
+
+### [ZI 4-E](https://steamcommunity.com/sharedfiles/filedetails/?id=3518860264)
+
+Blaster pistol based on the Pasadena Auto Mag 180, featuring a dark metal design. Given to high ranking navy officials.
+
+### 41st Barrage
+
+Recolor of Doom's unit Barrage in 41st Elite Corps colors.
+
+### 41st Trooper Camo
+
+Camouflage of a 41st Elite Corps trooper with the choice of either Forest, Desert or Snow camo. Has a ghillie suit as a choice.
+
+### 41st Ranger Camo
+
+Camouflage of a 41st Elite Corps Scout with the choice of either Forest, Desert or Snow camo.
+
+### 212th Cale/Reed
+
+212th Attack Battalion trooper representing lore characters Cale and Reed. Features wing-shaped ornaments on the top of the helmet.
+
+### 212th Threepwood
+
+212th Attack Battalion trooper representing lore characters Cale and Reed. Features a triangle shape on the front of the helmet.
+
+### 212th Blackout
+
+A TC13 recreation of Star Wars Battlefront 2's ARC Trooper "Umbra Operative".
+
+### 212th Desert Medic
+
+Desert Camouflage of a 212th Medic. Features red outlines and medic insignia on his shoulders.
+
+### CG Pointer
+
+Gray/red paintjob of a Coruscant Guard Dog Handler.
+
+### TC Heavy Armor 1 and 2
+
+Variants of 501st Legion troopers with heavy armor. Features 2 paintjobs for the armor, and 10 for different lore characters, as well as an ARF helmet.
+
+### GM Juggernaut
+
+Juggernaut armor for the Galactic marines - features a white plaster painted with the 21st Nova Corps' purple.
+
+### GM Juggernaut(Original)
+
+Juggernaut armor for the Galactic marines - features a grey metallic base painted with the 21st Nova Corps' purple.
+
 ### Security Officer - Male
 
 A high ranking naval officer in the security branch. Features many options for faces,races and attachments. Has a red uniform.
@@ -142,61 +183,20 @@ A high ranking naval officer in the security branch. Features many options for f
 
 A high ranking naval officer in the security branch. Features many options for faces,races and attachments. Has a black uniform and selectable pauldrons.
 
-### Aayla Sakura
-
-A hi-definition model of Jedi Aayla Sakura, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Adi Galia
-
-A hi-definition model of Jedi Adi Galia, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Anakin Skywalker
-
-A hi-definition model of Jedi Anakin Skywalker, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Cin Drallig
-
-A hi-definition model of Jedi Cin Drallig, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Mace Windu
-
-A hi-definition model of Jedi Mace Windu, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Padme Amidala
-
-A hi-definition model of Padme Amidala, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Luminara Unduli
-
-A hi-definition model of Jedi Luminara Unduli, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Quinlan Vos
-
-A hi-definition model of Jedi Quinlan Vos, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Ki-Adi Mundi
-
-A hi-definition model of Jedi Ki-Adi Mundi, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Ahsoka Tano 1
-
-A hi-definition model of Jedi Ahsoka Tano, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Ahsoka Tano 2
-
-A hi-definition model of Jedi Ahsoka Tano, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Kit Fisto
-
-A hi-definition model of Jedi Kit Fisto, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### Yoda
-
-A hi-definition model of Jedi Kit Fisto, with optimised lower quality meshes and textures that automatically switch the farther away you are.
-
-### ZI 4-E
-
-Blaster pistol based on the Pasadena Auto Mag 180, featuring a dark metal design. Given to high ranking navy officials.
+### Jedi Optimisation
+A hi-definition model of these jedi, with optimised lower quality meshes and textures that automatically switch the farther away you are.[Pictures to be added]
+Aayla Sakura
+Adi Galia
+Anakin Skywalker
+Cin Drallig
+Mace Windu
+Padme Amidala
+Luminara Unduli
+Quinlan Vos
+Ahsoka Tano 1
+Ahsoka Tano 2
+Kit Fisto
+Yoda
 
 ### ZI H-3
 
@@ -206,37 +206,15 @@ Blaster revolver pistol with some engravings and a silver metal design.
 
 Blaster revolver pistol with some engravings and a black metal design.
 
-### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
-
-3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
-
-### ZI MR
-
-Medium range optic with 2 lense. Features dark gray design and Star Wars Republic stylising.
-
-### ZI CQ
-
-CQC Red-Dot style optic. Features dark gray design and Star Wars Republic stylising.
-
-### ZI Holo
-
-Single holo lense with a colorable dot. Features dark gray design and Star Wars Republic stylising.
-
-### ZI LR02/r
-
-Long range telescopic optic. Has a sideways mounted varian. Features dark gray design, Star Wars Republic stylising and a colorable scope.
-
-### VX-89
-
-Long range telescopic optic. Features dark gray design, Star Wars Republic stylising and a colorable scope.
-
-### ZI NV
-
-Holographic-style optic with the option of thermal vision, highlighting in-game entities red. Features dark gray design and Star Wars Republic stylising.
-
-### Crosshair's thermal optic.
-
-A modified long range E11 scope with the option of thermal vision, highlighting in-game entities red. Features dark gray design and Star Wars Republic stylising.
+### Star Wars Weapon Optics
+ZI MR
+ZI CQ
+ZI Holo
+ZI LR02/r
+VX-89
+ZI NV
+Crosshair's thermal optic
+Weapon sights for use in Star Wars style weapons. Some are recolors of already availible sights, VX-89 and ZI LR02 are created by me from scratch.
 
 ### ARC Captain Fordo
 
@@ -258,26 +236,3 @@ ARC Clone trooper in black and white. Has a skull drawing on the front of his he
 
 ARC Clone trooper SYSTEM with many attachment and different designs(Alpha1 - 3, Alpha2 - 2) of Pauldrons, Kamas, Chestplates and Helmets, all interchangable, as well as the option to switch colors between the multiple regiments of the server dynamically - players can wear any combination of attachments in the colors of 501st, 212th, 41st Elite Corps, Coruscant Guard, Combat Engineers and 21st Nova Corps.
 
-### [Bacta Injector](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
-
-Cylinder filled with bacta and a needle to inject the wounded. Uses a water refraction shader with a textures on top and under it to mimic real life looking liquid.
-
-### [Bacta Medigun](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
-
-Medigun built from a DC15A blaster rifle, using 2 bacta injector jars as fuel to spray people with bacta. Has batteries on each side to power it.
-
-### [Bacta Hydron Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=3509402924)
-
-Medkit with a bacta injector jar to heal people in AOE.
-
-### [Adrenaline Stim Shot](https://steamcommunity.com/sharedfiles/filedetails/?id=3532332394)
-
-Stimshot with an injector. Uses the same water refraction shader as the bacta injector, but in red.
-
-### [Heretic Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=3537867553)
-
-Animated 3D props based on the keys from the 1994 game Heretic.
-
-### [Zakuul Bow](https://steamcommunity.com/sharedfiles/filedetails/?id=3540306103)
-
-Star Wars Bow weapon with custom animations based on Omega's bow from "The Bad Batch"
