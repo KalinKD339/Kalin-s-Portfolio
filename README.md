@@ -8,6 +8,23 @@ Here you can find most of my 3D models. Most can be found on my [Steam Workshop]
 
 Everything that does not have a refference image will have one added at some point.
 
+
+### [CS2 Copper Cypher Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3568321755)
+
+A collection of CS2 skins for a select few weapons.
+
+Featuring an anodized finish in a dark copper color, with engravings on them made by modifying the Roughness and Normal maps.
+
+[Glock-18 | Copper Cypher](https://steamcommunity.com/sharedfiles/filedetails/?id=3569025766)
+
+[M249 | Copper Cypher](https://steamcommunity.com/sharedfiles/filedetails/?id=3569526276)
+
+[PP-Bizon | Copper Cypher](https://steamcommunity.com/sharedfiles/filedetails/?id=3570106393)
+
+[MP5-SD | Copper Cypher](https://steamcommunity.com/sharedfiles/filedetails/?id=3571267914)
+
+SG-553 | Copper Cypher (released soon)
+
 ### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
 
 3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
@@ -135,17 +152,29 @@ Security Officer - Male/Female - A high ranking naval officer in the security br
 
 ### Jedi Optimisation
 A hi-definition model of these jedi, with optimised lower quality meshes and textures that automatically switch the farther away you are.[Pictures to be added]
+
 Aayla Sakura
+
 Adi Galia
+
 Anakin Skywalker
+
 Cin Drallig
+
 Mace Windu
+
 Padme Amidala
+
 Luminara Unduli
+
 Quinlan Vos
+
 Ahsoka Tano 1
+
 Ahsoka Tano 2
+
 Kit Fisto
+
 Yoda
 
 ### ZI H-3
