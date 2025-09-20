@@ -25,6 +25,11 @@ Featuring an anodized finish in a dark copper color, with engravings on them mad
 
 SG-553 | Copper Cypher (released soon)
 
+
+### [Quake 1 Style grenade launcher](https://imgur.com/a/DDeq87d)
+
+A grenade launcher and grenade props, using PBR shading and having most of the details drawn on with Height and Normal maps.
+
 ### [Republic Credits](https://steamcommunity.com/sharedfiles/filedetails/?id=3557380010)
 
 3 Republic credit models for different denominations, as well as 3 textures each with a copper, silver and gold color.
@@ -55,9 +60,25 @@ Animated 3D props based on the keys from the 1994 game Heretic. Features the Gre
 
 Star Wars Bow weapon with custom animations based on Omega's bow from "The Bad Batch". Has a charge mechanic.
 
+### [Star Wars Weapon Optics](https://imgur.com/gallery/zeus-scopes-8qG5KNd)
+ZI MR
+
+ZI CQ
+
+ZI Holo - colorable reticle
+
+ZI LR02/r - colorable reticle
+
+VX-89 - colorable reticle
+
+ZI NV - night vision(red tint)
+
+Crosshair's thermal optic - night vision(red tint)
+
+Weapon sights for use in Star Wars style weapons. Some are recolors or repurposes of already availible sights, VX-89 and ZI LR02 are created by me from scratch.
+
 ### [WIP Projects](https://imgur.com/gallery/wip-projects-9FUOckh)
 
-Grenade launcher + Grenade Prop,
 Sword,
 Halberd,
 Rapier
@@ -184,22 +205,5 @@ Blaster revolver pistol with some engravings and a silver metal design.
 ### ZI H-3U
 
 Blaster revolver pistol with some engravings and a black metal design.
-
-### [Star Wars Weapon Optics](https://imgur.com/gallery/zeus-scopes-8qG5KNd)
-ZI MR
-
-ZI CQ
-
-ZI Holo - colorable reticle
-
-ZI LR02/r - colorable reticle
-
-VX-89 - colorable reticle
-
-ZI NV - night vision(red tint)
-
-Crosshair's thermal optic - night vision(red tint)
-
-Weapon sights for use in Star Wars style weapons. Some are recolors or repurposes of already availible sights, VX-89 and ZI LR02 are created by me from scratch.
 
 
