@@ -156,14 +156,21 @@ Blaster revolver pistol with some engravings and a silver metal design.
 
 Blaster revolver pistol with some engravings and a black metal design.
 
-### Star Wars Weapon Optics
+### [Star Wars Weapon Optics](https://imgur.com/gallery/zeus-scopes-8qG5KNd)
 ZI MR
+
 ZI CQ
-ZI Holo
-ZI LR02/r
-VX-89
-ZI NV
-Crosshair's thermal optic
-Weapon sights for use in Star Wars style weapons. Some are recolors of already availible sights, VX-89 and ZI LR02 are created by me from scratch.
+
+ZI Holo - colorable reticle
+
+ZI LR02/r - colorable reticle
+
+VX-89 - colorable reticle
+
+ZI NV - night vision(red tint)
+
+Crosshair's thermal optic - night vision(red tint)
+
+Weapon sights for use in Star Wars style weapons. Some are recolors or repurposes of already availible sights, VX-89 and ZI LR02 are created by me from scratch.
 
 
