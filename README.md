@@ -48,28 +48,47 @@ Rapier
 ### [Star Wars Galactic Marines Phase 2 Playermodels](https://steamcommunity.com/sharedfiles/filedetails/?id=3529103829)
 
 GM Trooper - Clone Trooper painted with 21st Nova Corps' purple. Features minimal attachments - like a backpack.
+
 GM Sergeant - Clone Trooper painted with 21st Nova Corps' purple. Features slightly more attachments - everything from trooper + a pauldron.
+
 GM Specialist - Clone Trooper painted with 21st Nova Corps' purple. Contains everything from SGT with a different paintjob.
+
 GM Lieutenant - Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, as well an ARF helmet and a kama.
+
 GM Siege Legion - Clone Trooper painted with black and 21st Nova Corps' purple. Features a unique paintjob, a Bacara helmet, unique attachments and everything Lieutenant has.
+
 GM Flame Trooper - Clone Trooper painted with black and 21st Nova Corps' purple. Features a unique paintjob, a Spec Ops helmet, unique attachments and everything Lieutenant has.
+
 GM Medic Trooper - Clone Trooper painted with red and 21st Nova Corps' purple. Features a unique paintjob, medical insignia, unique attachments and everything Sergeant has.
+
 GM Medic Officer - Clone Trooper painted with red and 21st Nova Corps' purple. Features a unique paintjob, medical insignia, unique attachments and everything Lieutenant has.
+
 GM ARC Trooper - ARC Clone Trooper painted with black and 21st Nova Corps' purple. Features a unique paintjob, ARC attachments and everything Lieutenant has.
+
 GM Major - Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, BARC helmet and everything Lieutenant has.
+
 GM Executive Officer - Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, BARC helmet and everything Lieutenant has.
+
 GM Bacara - Lore Character Bacara, Clone Trooper painted with 21st Nova Corps' purple. Features a unique paintjob, unique attachments, Bacara's helmet and everything Lieutenant has.
 
 ### [Star Wars Clone Engineers Phase 2 Playermodels](https://steamcommunity.com/sharedfiles/filedetails/?id=3561141034)
 
 CE Trooper - Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, as well as attachments such as 3 kamas, pauldron, holsters, etc.
+
 CE ARF - Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, an ARF helmet and all attachments trooper has access to.
+
 CE Engineer - Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, an Engineer helmet and all attachments trooper has access to.
+
 CE Pilot - Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob, a Pilot helmet and all attachments trooper has access to.
+
 CE EOD - Clone Trooper painted in Combat Engineer's bright orange and EOD bright red. Features a unique paintjob, all 4 helmets from above, an airborne helmet and all attachments trooper has access to.
+
 CE Razor - Clone Trooper painted in Combat Engineer's bright orange and Razor gray. Features a unique paintjob, all 4 helmets from above and all attachments trooper has access to.
+
 CE ARC - ARC Clone Trooper painted in Combat Engineer's bright orange and Razor gray. Features a unique paintjob, ARC attachments, 2 trooper helmet paintjobs and all attachments trooper has access to.
+
 CE Medic - Clone Trooper painted in Combat Engineer's bright orange and medic red. Features a unique paintjob with medic insignia, all 4 helmets from above and all attachments trooper has access to.
+
 CE Senior - Clone Trooper painted in Combat Engineer's bright orange. Features a unique paintjob with medic insignia, all 4 helmets from above, 3 more paulron designs and all attachments trooper has access to.
 
 ### Zeus ARC Troopers [Addon to be created soon]
@@ -91,16 +110,27 @@ wear any combination of attachments in the colors of 501st, 212th, 41st Elite Co
 ### Zeus Custom Clones [Addon to be created soon]
 
 41st Barrage - Recolor of Doom's unit Barrage in 41st Elite Corps colors.
+
 41st Trooper Camo - Camouflage of a 41st Elite Corps trooper with the choice of either Forest, Desert or Snow camo. Has a ghillie suit as a choice.
+
 41st Ranger Camo - Camouflage of a 41st Elite Corps Scout with the choice of either Forest, Desert or Snow camo.
+
 212th Cale/Reed - 212th Attack Battalion trooper representing lore characters Cale and Reed. Features wing-shaped ornaments on the top of the helmet.
+
 212th Threepwood - 212th Attack Battalion trooper representing lore characters Cale and Reed. Features a triangle shape on the front of the helmet.
+
 212th Blackout - A TC13 recreation of Star Wars Battlefront 2's ARC Trooper "Umbra Operative".
+
 212th Desert Medic - Desert Camouflage of a 212th Medic. Features red outlines and medic insignia on his shoulders.
+
 CG Pointer - Gray/red paintjob of a Coruscant Guard Dog Handler.
+
 TC Heavy Armor 1 and 2 - Variants of 501st Legion troopers with heavy armor. Features 2 paintjobs for the armor, and 10 for different lore characters, as well as an ARF helmet.
+
 GM Juggernaut - Juggernaut armor for the Galactic marines - features a white plaster painted with the 21st Nova Corps' purple.
+
 GM Juggernaut(Original) - Juggernaut armor for the Galactic marines - features a grey metallic base painted with the 21st Nova Corps' purple.
+
 Security Officer - Male/Female - A high ranking naval officer in the security branch. Features many options for faces,races and attachments. Has a red uniform.
 
 ### Jedi Optimisation
