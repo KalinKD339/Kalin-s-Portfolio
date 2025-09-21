@@ -23,7 +23,7 @@ Featuring an anodized finish in a dark copper color, with engravings on them mad
 
 [MP5-SD | Copper Cypher](https://steamcommunity.com/sharedfiles/filedetails/?id=3571267914)
 
-SG-553 | Copper Cypher (released soon)
+[SG-553 | Copper Cypher](https://steamcommunity.com/sharedfiles/filedetails/?id=3571978729)
 
 
 ### [Quake 1 Style grenade launcher](https://imgur.com/a/DDeq87d)
