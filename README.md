@@ -60,20 +60,15 @@ Animated 3D props based on the keys from the 1994 game Heretic. Features the Gre
 
 Star Wars Bow weapon with custom animations based on Omega's bow from "The Bad Batch". Has a charge mechanic.
 
-### [Star Wars Weapon Optics](https://imgur.com/gallery/zeus-scopes-8qG5KNd)
-ZI MR
+### [Star Wars Weapon Optics](https://www.artstation.com/artwork/mAReEY)
 
-ZI CQ
+ZI LR02/r - a long range scope with a colorable reticle, also has a rotated version for use on a rocket launcher
 
-ZI Holo - colorable reticle
+VX-89 - a long range scope with a colorable reticle
 
-ZI LR02/r - colorable reticle
+ZI BAS13 - Ballistic sight meant for grenade launcher
 
-VX-89 - colorable reticle
-
-ZI NV - night vision(red tint)
-
-Crosshair's thermal optic - night vision(red tint)
+ZI MR-X - a medium sight with a glow in the dark iron sight on top
 
 Weapon sights for use in Star Wars style weapons. Some are recolors or repurposes of already availible sights, VX-89 and ZI LR02 are created by me from scratch.
 
